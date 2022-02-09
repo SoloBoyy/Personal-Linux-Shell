@@ -8,8 +8,8 @@ This project was part of my operating systems class, and was recently moved to m
 
 ### Start The Program
 
-make all
-g++ start.cpp
+* make all
+* g++ start.cpp
 
 ### Shell Commands
 
